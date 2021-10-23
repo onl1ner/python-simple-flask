@@ -75,8 +75,7 @@ So in total we have following routes:
         id: String,
         login: String,
         first_name: String,
-        last_name: String,
-        password: String
+        last_name: String
     }
     ```
     </details>
